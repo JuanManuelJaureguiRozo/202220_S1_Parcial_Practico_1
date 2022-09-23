@@ -25,7 +25,7 @@ public class HotelService {
 			throw new IllegalOperationException("Ese nombre ya existe");
 
         if ((hotelEntity.getEstrellas()>7) || (hotelEntity.getEstrellas()<2))
-            throw new IllegalOperationException("Las estrellas debens ser corregidas");
+            throw new IllegalOperationException("Las estrellas deben ser corregidas");
 
 		log.info("Termina proceso de creación del hotel");
 		return hotelRepository.save(hotelEntity);
