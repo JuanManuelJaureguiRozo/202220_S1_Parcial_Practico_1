@@ -1,4 +1,4 @@
 # Parcial Práctico 1 - Sección 1
 
-Siga las instrucciones proporcionadas por el profesor de su sección
+[Parcial Práctico 1.pdf](https://github.com/JuanManuelJaureguiRozo/202220_S1_Parcial_Practico_1/files/9633232/Parcial.Practico.1.pdf)
 
